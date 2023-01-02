@@ -7,5 +7,6 @@ class Sum{
         int f;
         int c;
         System.out.println(a+b);//summation
+        System.out.println(a+b+c+d);
     }
 }
